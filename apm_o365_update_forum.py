@@ -37,10 +37,10 @@ import sys
 #-----------------------------------------------------------------------
 
 # Access Profile Name(s) - ex. SINGLE ["AP1"] OR MULTIPLE ["AP1", "AP2", "AP3"]
-access_profiles = ["MyAccessProfile"]
+access_profiles = ["VPN-Staff-Test"]
 
 # Network Access List Name(s) - ex. SINGLE ["NAL1"] OR MULTIPLE ["NAL1", "NAL2", "NAL3"]
-na_lists = ["MyNetworkAccessList"]
+na_lists = ["Prod_VPN_Network_Access_Laptops"]
 
 # Microsoft Web Service Customer endpoints (ENABLE ONLY ONE ENDPOINT)
 # These are the set of URLs defined by customer endpoints as described here: https://docs.microsoft.com/en-us/office365/enterprise/urls-and-ip-address-ranges
